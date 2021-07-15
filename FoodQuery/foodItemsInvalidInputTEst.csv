@@ -1,0 +1,31 @@
+Each row has one illegal modification,,,,,,,,,,,
+51c38f5d97c3e6d3d972f08a,calories,caories ,100,fat ,0,carbohydrate,0,fiber,0,protein,3
+51c38f5d97c3e6d3d972f08a,calories_val,calories,10o,fat ,0,carbohydrate,0,fiber,0,protein,3
+51c38f5d97c3e6d3d972f08a,fat,calories,100,ffat,0,carbohydrate,0,fiber,0,protein,3
+51c38f5d97c3e6d3d972f08a,fat_val,calories,100,fat ,0a,carbohydrate,0,fiber,0,protein,3
+51c38f5d97c3e6d3d972f08a,carb,calories,100,fat ,0,carbohydrat ,0,fiber,0,protein,3
+51c38f5d97c3e6d3d972f08a,carb_val,100,fat ,0,carbohydrate,0*,fiber,0,protein,3,
+51c38f5d97c3e6d3d972f08a,fiber,calories,100,fat,0,carbohydrate,0,fibe ,0,protein,3
+51c38f5d97c3e6d3d972f08a,fiber_val,calories,100,fat,0,carbohydrate,0,fiber,0i,protein,3
+51c38f5d97c3e6d3d972f08a,protein,calories,100,fat,0,carbohydrate,0, fiber,0,protin,3
+51c38f5d97c3e6d3d972f08a,protein_val,calories,100,fat,0,carbohydrate,0,fiber,0,protein,3t
+,,,,,,,,,,,
+51c38f5d97c3e6d3d972f08a,neg_cal,calories   ,-100,fat  ,0,carbohydrate  ,0,fiber,0,protein,3
+51c38f5d97c3e6d3d972f08a,neg_fat,calories   ,100,fat  ,-100,carbohydrate  ,0,fiber,0,protein,3
+51c38f5d97c3e6d3d972f08a,neg_carbs,calories   ,100,fat  ,0,carbohydrate  ,-100,fiber,0,protein,3
+51c38f5d97c3e6d3d972f08a,neg_fiber,calories   ,100,fat  ,0,carbohydrate  ,0,fiber,-100,protein,3
+51c38f5d97c3e6d3d972f08a,neg_protein,100,fat  ,0,carbohydrate  ,0,fiber,0,protein,-100,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Similac_FormulaSoyforDiarrheaReadytoFeed,calories,100,fat,0,carbohydrate,0,fiber,0,protein,3,
+51c38f5d97c3e6d3d972f08a,no_cal,calories   ,,fat  ,0,carbohydrate  ,0,fiber,0,protein,3
+51c38f5d97c3e6d3d972f08a,no_cal,calories   ,fat  ,0,carbohydrate  ,0,fiber,0,protein,3,
+,,,,,,,,,,,
+Similac_FormulaSoyforDiarrheaReadytoFeed,calories,100,fat,0,carbohydrate,0,fiber,0,protein,3,
+,empty_id,calories,100,fat,0,carbohydrate,0,fiber,0,protein,3
+,,,,,,,,,,,
+Don't need to handle spaces (specified in doc),,,,,,,,,,,
+,,,,,,,,,,,
+51c38f5d97c3e6d3d972f08a,Should_add_This_nothign_else,calories   ,100,fat  ,0,carbohydrate  ,0,fiber,0,protein,3
